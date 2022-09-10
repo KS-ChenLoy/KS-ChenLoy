@@ -2,7 +2,6 @@
 - I’m interested in WebDev, Back-end software Dev, Sports and, much more.
 - I’m currently learning WebDev through react 
 - I’m looking to collaborate on many projects I believe I can contribute. 
-  success 
   
 
 <!---
